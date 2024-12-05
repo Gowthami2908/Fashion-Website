@@ -1,0 +1,32 @@
+.welcome-container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .tab-buttons {
+    margin-top: 30px;
+  }
+  
+  .tab-buttons button {
+    margin: 10px;
+    padding: 15px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .explore-button {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+  
+  .post-button {
+    background-color: #008CBA; /* Blue */
+    color: white;
+  }
+  
+  .tab-buttons button:hover {
+    opacity: 0.8;
+  }
+  

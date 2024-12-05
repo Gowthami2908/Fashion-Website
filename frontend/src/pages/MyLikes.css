@@ -1,0 +1,18 @@
+.likes-container {
+    padding: 20px;
+  }
+  
+  .liked-posts-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .liked-post-card {
+    width: 300px;
+    background: white;
+    padding: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
